@@ -78,7 +78,9 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- Data Loading & Translation ---
-DATA_DIR = os.path.join(os.getcwd(), "olist_analysis", "cleaned_data")
+# Use relative path based on script location for better portability (Streamlit Cloud)
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(SCRIPT_DIR, "..", "cleaned_data")
 DATA_PATH = os.path.join(DATA_DIR, "final_sales_dataset.csv")
 TRANS_PATH = os.path.join(DATA_DIR, "product_category_name_translation.csv")
 
