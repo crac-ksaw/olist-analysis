@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+
+# Data (Optional: Comment out if you want to track data)
+# cleaned_data/
+
+# OS
+.DS_Store
+Thumbs.db
