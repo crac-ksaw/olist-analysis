@@ -78,3 +78,11 @@ olist_analysis/
 │   └── sales_analysis.py      # Data cleaning & merging logic
 └── README.md                  # Project documentation
 ```
+
+## 📸 App Screenshots
+
+<img width="1862" height="862" alt="image" src="https://github.com/user-attachments/assets/277e4f62-1213-4267-9fe3-3f217e99cb43" />
+
+With filters 
+<img width="1864" height="844" alt="image" src="https://github.com/user-attachments/assets/ae5233e4-c942-4c45-a04a-84dd0ae6a663" />
+
