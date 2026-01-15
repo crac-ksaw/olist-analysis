@@ -6,6 +6,8 @@ An end-to-end data analytics project exploring 100k+ orders from the Olist Brazi
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B)
 ![Pandas](https://img.shields.io/badge/Pandas-Data-150458)
 
+Click here to get to the site [Olist Interface](https://crac-ksaw-olist-analysis-srcdashboard-app-a6keww.streamlit.app)
+
 ## 🚀 What It Does Now (The Dashboard)
 
 At the heart of this project is an interactive **Streamlit Dashboard** that serves as a tool for business stakeholders.
