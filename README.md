@@ -85,4 +85,6 @@ olist_analysis/
 
 With filters 
 <img width="1864" height="844" alt="image" src="https://github.com/user-attachments/assets/ae5233e4-c942-4c45-a04a-84dd0ae6a663" />
+<img width="1852" height="822" alt="image" src="https://github.com/user-attachments/assets/f381b218-0625-4b73-ac84-034d0cf8017d" />
+
 
