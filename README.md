@@ -1,4 +1,4 @@
-# 🇧🇷 Olist E-Commerce Sales & Customer Analysis
+# Olist E-Commerce Sales & Customer Analysis
 
 An end-to-end data analytics project exploring 100k+ orders from the Olist Brazilian E-Commerce dataset. This project moves from raw data processing to a production-grade analytics dashboard, designed to uncover actionable business insights.
 
